@@ -174,40 +174,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RYSTSOBP
 
 [Document9]
-DocumentPath=..\__000_Ablegen\RaspiZero.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YCPBODMM
-
-[Document10]
-DocumentPath=..\__000_Ablegen\RaspiZero.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HSYDDYNW
-
-[Document11]
 DocumentPath=O:\Bonfiglioli Vectron\19550 BPD Keypad\PCB\R05\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=O:\Bonfiglioli Vectron\19550 BPD Keypad\PCB\R05\PcbLib21.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=O:\Bonfiglioli Vectron\19550 BPD Keypad\PCB\R05\UBC-r112-56c-7ats.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=O:\Bonfiglioli Vectron\19550 BPD Keypad\PCB\R05\Vectron_19550.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=O:\Bonfiglioli Vectron\19550 BPD Keypad\PCB\R05\UBC-r112-56c-7ats.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=O:\Bonfiglioli Vectron\19550 BPD Keypad\PCB\R05\Vectron_19550.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=O:\_Testboards\Uni_PCB_STM\R02\UNI_PCB_STM.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
